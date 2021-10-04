@@ -1,0 +1,15 @@
+@import "tailwindcss/base";
+
+@import "tailwindcss/components";
+
+@import "tailwindcss/utilities";
+
+
+.background-image {
+    background-image: url('https://media.istockphoto.com/photos/top-view-of-dark-workplace-with-smartphone-tablet-other-office-and-picture-id1202900062?s=612x612');
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    height: 600px;
+}
